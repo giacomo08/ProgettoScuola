@@ -9,13 +9,6 @@ package progattoscuola;
  *
  * @author FSEVERI\trovo2987
  */
-public class ProgattoScuola {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Hello word");
-    }
+public class pointlessClass {
     
 }
