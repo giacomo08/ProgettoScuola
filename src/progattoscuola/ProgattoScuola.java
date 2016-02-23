@@ -16,6 +16,7 @@ public class ProgattoScuola {
      */
     public static void main(String[] args) {
         System.out.println("Hello word");
+        System.out.print("ciao");
     }
     
 }
